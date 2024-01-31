@@ -128,3 +128,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Downloaded data for visualization purposes
+train/
+train_images/
+val/
+val_images/
+*.gif
